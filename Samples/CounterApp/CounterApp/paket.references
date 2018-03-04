@@ -1,0 +1,4 @@
+group neutral
+	FSharp.Core
+	FSharp.Control.AsyncSeq
+	Xamarin.Forms

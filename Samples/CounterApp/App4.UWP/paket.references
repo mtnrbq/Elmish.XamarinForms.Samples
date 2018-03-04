@@ -1,0 +1,3 @@
+group UWP
+    Xamarin.Forms
+    Microsoft.NETCore.UniversalWindowsPlatform
